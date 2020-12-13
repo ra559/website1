@@ -1,0 +1,4 @@
+# Project exclude paths
+/venv/
+.idea
+# this will tell git not to track your .idea and /venv directories
