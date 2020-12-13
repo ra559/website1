@@ -9,4 +9,4 @@ Step 2 - Create the following following files:
 * screenshots (directory)
 * docker-compose.yml
 * README.md
-    
+ 
