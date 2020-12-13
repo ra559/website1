@@ -1,6 +1,11 @@
 # Project Description
 This project is a homework assignment to teach how to get pycharm setup with docker, flask, mysql
+
+#Pycharm DBM Picture
+![table](./screenshots/table.png)
 #postman screenshot
+![Get request](./screenshots/getrequest.png)
+
 
 Step 01 - Create new project done
 
@@ -30,3 +35,7 @@ Step 10 - Populate requirements
 Step 11 - Create init.sql in db
 
 Step 12 - Copy init.sql to my init.sql
+
+Step 13 - Run project and do get request
+![table](./screenshots/table.png)
+![Get request](./screenshots/getrequest.png)
