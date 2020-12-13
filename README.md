@@ -9,4 +9,5 @@ Step 2 - Create the following following files:
 * screenshots (directory)
 * docker-compose.yml
 * README.md
- 
+ Step 3 - Add text to gitignore
+ Step 4 - populate docker-compose.yml
