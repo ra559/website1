@@ -14,3 +14,4 @@ Step 2 - Create the following following files:
  Step 5 - Add description to README.md
  Step 6 - Missing from assignment
  Step 7 - Add app.py, dockerfile, and requirements file
+ Step 8 - Populate python file
