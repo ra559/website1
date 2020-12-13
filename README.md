@@ -11,3 +11,4 @@ Step 2 - Create the following following files:
 * README.md
  Step 3 - Add text to gitignore
  Step 4 - populate docker-compose.yml
+ Step 5 - Add description to README.md
